@@ -243,8 +243,8 @@ public class MainActivity extends AppCompatActivity {
 
 ![Imgur](https://i.imgur.com/rl4kgR8.jpg)
 
-[Imgur](https://i.imgur.com/MeM0YCG.jpg)
+![Imgur](https://i.imgur.com/MeM0YCG.jpg)
 
 - Jika angka melebihi limi maka akan muncul pop-up
 
-[Imgur](https://i.imgur.com/ZXim3S0.jpg)
+![Imgur](https://i.imgur.com/ZXim3S0.jpg)
